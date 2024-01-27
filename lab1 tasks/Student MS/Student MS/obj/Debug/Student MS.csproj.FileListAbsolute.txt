@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\bin\Debug\Student MS.exe.config
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\bin\Debug\Student MS.exe
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\bin\Debug\Student MS.pdb
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\obj\Debug\Student MS.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\obj\Debug\Student MS.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\obj\Debug\Student MS.exe
+E:\zaid\semester 2\PD\PD2\Student MS\Student MS\obj\Debug\Student MS.pdb

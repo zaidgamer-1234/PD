@@ -1,0 +1,7 @@
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\bin\Debug\SignIn menu.exe.config
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\bin\Debug\SignIn menu.exe
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\bin\Debug\SignIn menu.pdb
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\obj\Debug\SignIn menu.csproj.AssemblyReference.cache
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\obj\Debug\SignIn menu.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\obj\Debug\SignIn menu.exe
+E:\zaid\semester 2\LABS\lab1 tasks\SignIn menu\SignIn menu\obj\Debug\SignIn menu.pdb

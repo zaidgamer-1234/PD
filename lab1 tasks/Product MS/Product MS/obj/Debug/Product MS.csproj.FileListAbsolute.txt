@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\bin\Debug\Product MS.exe.config
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\bin\Debug\Product MS.exe
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\bin\Debug\Product MS.pdb
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\obj\Debug\Product MS.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\obj\Debug\Product MS.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\obj\Debug\Product MS.exe
+E:\zaid\semester 2\PD\PD2\Product MS\Product MS\obj\Debug\Product MS.pdb
