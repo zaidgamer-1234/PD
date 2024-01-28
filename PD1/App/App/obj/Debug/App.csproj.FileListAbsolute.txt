@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD1\App\App\bin\Debug\App.exe.config
+E:\zaid\semester 2\PD\PD1\App\App\bin\Debug\App.exe
+E:\zaid\semester 2\PD\PD1\App\App\bin\Debug\App.pdb
+E:\zaid\semester 2\PD\PD1\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD1\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD1\App\App\obj\Debug\App.exe
+E:\zaid\semester 2\PD\PD1\App\App\obj\Debug\App.pdb

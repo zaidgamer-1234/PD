@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD1\game\game\bin\Debug\game.exe.config
+E:\zaid\semester 2\PD\PD1\game\game\bin\Debug\game.exe
+E:\zaid\semester 2\PD\PD1\game\game\bin\Debug\game.pdb
+E:\zaid\semester 2\PD\PD1\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD1\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD1\game\game\obj\Debug\game.exe
+E:\zaid\semester 2\PD\PD1\game\game\obj\Debug\game.pdb
