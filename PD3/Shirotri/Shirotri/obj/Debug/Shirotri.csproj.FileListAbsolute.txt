@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\bin\Debug\Shirotri.exe.config
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\bin\Debug\Shirotri.exe
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\bin\Debug\Shirotri.pdb
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\obj\Debug\Shirotri.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\obj\Debug\Shirotri.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\obj\Debug\Shirotri.exe
+E:\zaid\semester 2\PD\PD3\Shirotri\Shirotri\obj\Debug\Shirotri.pdb
