@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.exe.config
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.exe
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\bin\Debug\PlayMagicalDuel.pdb
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.exe
+E:\zaid\semester 2\PD\PD4\PlayMagicalDuel\PlayMagicalDuel\obj\Debug\PlayMagicalDuel.pdb

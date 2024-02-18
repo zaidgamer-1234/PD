@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+E:\zaid\semester 2\PD\PD4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
