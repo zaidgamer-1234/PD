@@ -1,0 +1,17 @@
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddStudent.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UpdateStudent.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DeleteStudent.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CLO.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Assesments.resources
+E:\DB Demo\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rubric.resources
