@@ -1,0 +1,5 @@
+ali,456,admin
+zaid,123,admin
+hamza,345,student
+
+umair,gamer123,student

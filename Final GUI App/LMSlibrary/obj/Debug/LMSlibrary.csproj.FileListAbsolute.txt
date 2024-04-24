@@ -1,0 +1,12 @@
+E:\zaid\semester 2\Projects\LMSlibrary\bin\Debug\LMSlibrary.dll
+E:\zaid\semester 2\Projects\LMSlibrary\bin\Debug\LMSlibrary.pdb
+E:\zaid\semester 2\Projects\LMSlibrary\obj\Debug\LMSlibrary.csproj.AssemblyReference.cache
+E:\zaid\semester 2\Projects\LMSlibrary\obj\Debug\LMSlibrary.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\Projects\LMSlibrary\obj\Debug\LMSlibrary.dll
+E:\zaid\semester 2\Projects\LMSlibrary\obj\Debug\LMSlibrary.pdb
+C:\Users\Zaid\Downloads\LMSlibrary\bin\Debug\LMSlibrary.dll
+C:\Users\Zaid\Downloads\LMSlibrary\bin\Debug\LMSlibrary.pdb
+C:\Users\Zaid\Downloads\LMSlibrary\obj\Debug\LMSlibrary.csproj.AssemblyReference.cache
+C:\Users\Zaid\Downloads\LMSlibrary\obj\Debug\LMSlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zaid\Downloads\LMSlibrary\obj\Debug\LMSlibrary.dll
+C:\Users\Zaid\Downloads\LMSlibrary\obj\Debug\LMSlibrary.pdb
