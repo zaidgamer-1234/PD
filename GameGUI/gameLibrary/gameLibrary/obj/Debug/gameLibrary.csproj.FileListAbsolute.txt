@@ -1,0 +1,18 @@
+E:\Studies\Game\gameLibrary\gameLibrary\bin\Debug\gameLibrary.dll
+E:\Studies\Game\gameLibrary\gameLibrary\bin\Debug\gameLibrary.pdb
+E:\Studies\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.csproj.AssemblyReference.cache
+E:\Studies\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.csproj.CoreCompileInputs.cache
+E:\Studies\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.dll
+E:\Studies\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.pdb
+E:\Studies\Game\gameLibrary\gameLibrary\bin\Debug\EZInput.dll
+E:\Studies\Game\gameLibrary\gameLibrary\bin\Debug\EZInput.xml
+E:\Studies\Game\gameLibrary\gameLibrary\obj\Debug\gameLibr.B65A7DE3.Up2Date
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\bin\Debug\gameLibrary.dll
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\bin\Debug\gameLibrary.pdb
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\bin\Debug\EZInput.dll
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\bin\Debug\EZInput.xml
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.csproj.AssemblyReference.cache
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.csproj.CoreCompileInputs.cache
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\obj\Debug\gameLibr.B65A7DE3.Up2Date
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.dll
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\gameLibrary\gameLibrary\obj\Debug\gameLibrary.pdb

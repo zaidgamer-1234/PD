@@ -1,0 +1,53 @@
+E:\Studies\Game\GameProject\bin\Debug\GameProject.exe.config
+E:\Studies\Game\GameProject\bin\Debug\GameProject.exe
+E:\Studies\Game\GameProject\bin\Debug\GameProject.pdb
+E:\Studies\Game\GameProject\bin\Debug\gameLibrary.dll
+E:\Studies\Game\GameProject\bin\Debug\gameLibrary.pdb
+E:\Studies\Game\GameProject\obj\Debug\GameProject.csproj.AssemblyReference.cache
+E:\Studies\Game\GameProject\obj\Debug\GameProject.Form1.resources
+E:\Studies\Game\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+E:\Studies\Game\GameProject\obj\Debug\GameProject.csproj.GenerateResource.cache
+E:\Studies\Game\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+E:\Studies\Game\GameProject\obj\Debug\GameProj.B6B480F2.Up2Date
+E:\Studies\Game\GameProject\obj\Debug\GameProject.exe
+E:\Studies\Game\GameProject\obj\Debug\GameProject.pdb
+E:\Studies\Game\GameProject\bin\Debug\EZInput.dll
+E:\Studies\Game\GameProject\bin\Debug\EZInput.xml
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\GameProject.exe.config
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\GameProject.exe
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\GameProject.pdb
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\gameLibrary.dll
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\Guna.UI2.dll
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\EZInput.dll
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\gameLibrary.pdb
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\bin\Debug\EZInput.xml
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.csproj.AssemblyReference.cache
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.Home.resources
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.csproj.GenerateResource.cache
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProj.B6B480F2.Up2Date
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.exe
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.pdb
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.Instructions.resources
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.GameOver.resources
+G:\My CS\Semester 2\OOP Sem Projects\Game\GameFramework\Game\GameProject\obj\Debug\GameProject.v.resources
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\GameProject.exe.config
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\GameProject.exe
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\GameProject.pdb
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\EZInput.dll
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\gameLibrary.dll
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\Guna.UI2.dll
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\EZInput.xml
+E:\zaid\semester 2\GameGUI\GameProject\bin\Debug\gameLibrary.pdb
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.csproj.AssemblyReference.cache
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.v.resources
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.GameOver.resources
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.Home.resources
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.Instructions.resources
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.Properties.Resources.resources
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.csproj.GenerateResource.cache
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.csproj.CopyComplete
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.exe
+E:\zaid\semester 2\GameGUI\GameProject\obj\Debug\GameProject.pdb
